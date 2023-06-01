@@ -1,0 +1,10 @@
+
+/*全局的样式*/
+.add-button {
+    position: fixed;
+    bottom: 60px;
+    right: 12px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
